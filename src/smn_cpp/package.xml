@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>smn_cpp</name>
+  <version>1.0.0</version>
+  <description>C++ package for Project smn_cpp.</description>
+  <maintainer email="pantaoyao@gmail.com">Pantao Yao</maintainer>
+  <license>BSD 2-Clause</license>
+  <url type="repository">https://github.com/corenel/zetton-common-rockchip</url>
+  <author>Pantao Yao</author>
+
+  <buildtool_depend>cmake</buildtool_depend>
+
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+</package>
